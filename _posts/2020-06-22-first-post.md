@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
+author: Billy Rick
 date: 2020-06-22 17:57:28 +0900
 categories: jekyll update
 ---
