@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Eaten Muffin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars0.githubusercontent.com/u/48678442?s=400&u=d959a6bf70f4f18092032d992c819805f7e68359&v=4"
   bio              : "Junior Programmers"
   location         : "Seongnam, South Korea"
   email            :
